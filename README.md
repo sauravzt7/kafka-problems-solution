@@ -66,6 +66,9 @@ public class MessageProducer {
         }
     }
 }
+
+<img width="1383" alt="Screenshot 2024-12-01 at 4 10 35 PM" src="https://github.com/user-attachments/assets/759f724f-ca0d-493e-9968-1d093de4c673">
+
 ```
 
 1. Observe which partition each message is sent to.
